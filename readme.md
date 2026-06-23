@@ -148,11 +148,11 @@ streamlit run app.py
 
 ## What I Learned
 
-- Scraping real websites with Selenium + BeautifulSoup
-- Extracting structured features from messy text using regex
-- Building production ML pipelines with proper exception handling
-- Training and comparing multiple models automatically
-- Deploying a live ML app end to end
+- Scraping real websites with Selenium + BeautifulSoup.
+- Extracting structured features from messy text using regex.
+- Building production ML pipelines with proper exception handling.
+- Training and comparing multiple models automatically.
+- Deploying a live ML app end to end.
 
 ---
 
